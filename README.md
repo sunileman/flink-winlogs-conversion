@@ -1,2 +1,2 @@
 # flink-winlogs-conversion
-Flink Windows events logs conversion from XML to Json
+Flink Windows event logs conversion from XML to Json
